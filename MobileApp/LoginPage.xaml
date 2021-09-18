@@ -11,7 +11,7 @@
                 <Entry Text="" Placeholder="PassWord" IsPassword="True"></Entry>
                 <Button Text="Login" BackgroundColor="White" TextColor="#2ccbff" Clicked="LoginBtn"></Button>
                 <Label Text="Not A Member? Sign Up Now" TextColor="Gray" HorizontalOptions="Center"></Label>
-
+                
 
             </StackLayout>
         </StackLayout>
